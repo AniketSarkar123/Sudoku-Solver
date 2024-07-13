@@ -16,3 +16,4 @@ Warnings:
 1. If same insertions are made in a same row, a warning will be generated.
 2. If same insertions are made in a same column, a warning will be generated.
 3. If same inserions are made in a square of dimensions 3*3 which is one of the nine sub squares in sudoku, a warning will be generated.
+   Link to solver: https://majestic-arithmetic-3d2140.netlify.app/
